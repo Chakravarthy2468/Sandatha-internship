@@ -21,6 +21,7 @@ This repository contains the work, projects, assignments, and learning activitie
 - Git & GitHub
 - Visual Studio Code
 - Java
+- C/C++
 
 ## Objectives
 - Gain practical industry experience
